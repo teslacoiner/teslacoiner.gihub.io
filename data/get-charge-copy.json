@@ -1,0 +1,170 @@
+{
+    "somethingWentWrong": "Something went wrong",
+    "helpMeChargeDescription": "Answer a few questions to find the best Tesla charging solution for your lifestyle.",
+    "helpMeChargeKeywords": "Tesla charging recommendations, Tesla charging solutions, best EV charger, Tesla charging, Tesla home charging, EV charging, EV home charging, Destination Charging, Supercharging",
+    "landingPage": {
+        "CTA": "Get Started",
+        "subtitle": "Find the charging solution that meets your needs by answering questions about your home, driving habits and lifestyle.",
+        "title": "Help Me Charge"
+    },
+    "navigation": {
+        "back": "Back",
+        "next": "Next",
+        "submit": "Submit",
+        "seeResult": "See Result"
+    },
+    "questionHomeType": {
+        "optionHouse": "House",
+        "optionApartmentCondo": "Apartment \/ Condo",
+        "optionTownhouse": "Townhouse",
+        "optionOther": "Other",
+        "title": "What type of building do you live in?"
+    },
+    "questionParkingType": {
+        "optionGarage": "Garage",
+        "optionDriveway": "Driveway \/ Carport",
+        "optionStreet": "Street",
+        "title": "Where do you park when you're home?"
+    },
+    "questionOutletAccess": {
+        "optionYes": "Yes",
+        "optionNo": "No",
+        "title": "Is there outlet access near where you park?"
+    },
+    "whereYouParkCarousel": {
+        "slides": {
+            "home": {
+                "title": "Home",
+                "description": "Charge anytime of day or night in your garage, driveway or parking spot."
+            },
+            "workplace": {
+                "title": "Workplace",
+                "description": "Plug in during business hours and leave the office, worry-free."
+            },
+            "destination": {
+                "title": "Destination",
+                "description": "Relax and recharge at restaurants, hotels and shopping centers."
+            }
+        }
+    },
+    "onTheGoCarousel": {
+        "title": "Charging is Easy and Fast",
+        "subtitle": "Whether it's daily commuting or cross country road trips, we have you covered.",
+        "slides": {
+            "navigate": {
+                "title": "Navigate",
+                "description": "Enter a destination and Trip Planner finds charging stations on the way."
+            },
+            "plugIn": {
+                "title": "Plug In",
+                "description": "Charge automatically \u2014 no need to swipe a credit card."
+            },
+            "relax": {
+                "title": "Relax",
+                "description": "Grab a coffee, stretch your legs or play a game."
+            },
+            "monitor": {
+                "title": "Monitor",
+                "description": "View your charge status in real time and get ready to go."
+            }
+        }
+    },
+    "productModule": {
+        "title": "Charge Where You Park",
+        "wallConnector": {
+            "title": "Wall Connector",
+            "description": "Plug in at home and start your day with a charged battery. Charge from 0-80% in 6 hours.",
+            "CTA": "Shop Wall Connector"
+        },
+        "mobileConnector": {
+            "title": "Mobile Connector",
+            "description": "Portable and convenient, charge wherever there's an outlet. Add 3-30 miles of range per hour.",
+            "CTA": "Shop Mobile Connector"
+        }
+    },
+    "permanentCtas": {
+        "header": "Help Me Charge",
+        "ctas": {
+            "explore": "Explore Vehicles",
+            "schedule": "Schedule Consultation",
+            "drive": "Demo Drive"
+        }
+    },
+    "chargingModule": {
+        "title": "Charge On The Go",
+        "supercharger": {
+            "title": "Supercharger",
+            "description": "The fastest option away from home. Charge from 0 to 80% in just 25 minutes."
+        },
+        "destinationCharging": {
+            "title": "Destination Charging",
+            "description": "Charging in urban and rural areas. Charge from 0 to 80% in 6 hours."
+        },
+        "disclaimer": "*Depending on vehicle age\/model, adapter and charging output"
+    },
+    "chargingMap": {
+        "title": "Go Anywhere, Charge Everywhere",
+        "subtitle": "Enter a location below to view the number of chargers available near you.",
+        "search": {
+            "placeholder": "Enter Location",
+            "mapArea": "Map Area",
+            "error": "No chargers available. Try searching in a different location."
+        },
+        "labels": {
+            "superchargers": "Superchargers",
+            "destination": "Destination Chargers",
+            "thirdParty": "Third Party Chargers"
+        },
+        "cta": {
+            "findUs": "Find Us",
+            "planMyTrip": "Plan My Trip"
+        }
+    },
+    "consultation": {
+        "title": "Experience Tesla Technology",
+        "description": "Schedule a Demo Drive or connect with a Tesla Advisor for comprehensive guidance on charging solutions."
+    },
+    "contactForm": {
+        "demoDrive": {
+            "demoDrive": "Demo Drive"
+        },
+        "title": "Schedule a Consultation",
+        "description": "Tesla Advisors can walk you through our charging products, charging network and answer any questions you may have. Provide your information to receive a call from one of our advisors.",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "phone": "Phone",
+        "email": "Email",
+        "contact": "When should we contact you? (Optional)",
+        "contactExample": "Weekday Afternoon",
+        "disclaimer": "By clicking \"Submit\", I authorize Tesla to contact me about this request via the contact information I provide. I understand calls or texts may use automatic or computer-assisted dialing or pre-recorded messages. Normal message and data rates apply. I can opt out at any time in the Tesla app or by unsubscribing. This consent is not required to complete your request.",
+        "submit": "Submit",
+        "fieldRequired": "This field is required",
+        "invalidEntry": "Invalid entry",
+        "successTitle": "Consultation Has Been Scheduled",
+        "successSubtitle": "A Tesla Advisor will give you a call as soon as possible.",
+        "failureTitle": "Error",
+        "failureSubtitle": "We were not able to process your request. Try again later."
+    },
+    "recommendations": {
+        "title": "Charging Recommendations",
+        "primary": "Primary Option",
+        "secondary": "Secondary Option"
+    },
+    "disclaimers": {
+        "outlet": "Depending on vehicle age\/model, adapter and charging output.",
+        "map": "Tesla will store the address for future planning purposes pursuant to the Privacy Notice. The address will be anonymized and aggregated."
+    },
+    "chargingMapComponent": {
+        "title": "Find Your Charge",
+        "subtitle": "View the network of Tesla Superchargers and Destination Chargers available near you.",
+        "labels": {
+            "superchargers": "Superchargers",
+            "destination": "Destination Chargers"
+        },
+        "cta": {
+            "viewNetwork": "View Network",
+            "learnMore": "Learn More"
+        },
+        "findMe": "Find Me"
+    }
+}
